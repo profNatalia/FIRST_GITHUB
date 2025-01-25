@@ -1,5 +1,5 @@
 // YOUR_FIRST_NAME YOUR_LAST_NAME
-// Lab #X
+// Lab #0
 
 #include <iostream>
 using namespace std;
