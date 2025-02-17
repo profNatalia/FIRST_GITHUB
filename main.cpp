@@ -1,4 +1,4 @@
-// YOUR_FIRST_NAME YOUR_LAST_NAME
+// Nathan Martinez
 // Lab #0
 
 #include <iostream>
