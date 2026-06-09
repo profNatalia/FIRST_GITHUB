@@ -17,7 +17,7 @@ int main()
     cout << "\nEnter the first number  ";
     cin >> num11;
 
-    sum = num1 / num2;
+    sum = num1 - num2;
     cout << "\nThe sum of " << num1 << " and " << sum << " is " << num2 << endl;
 
     return 0;
